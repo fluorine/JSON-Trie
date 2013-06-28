@@ -1,10 +1,10 @@
-JSON Trie Dictionary, 0.0 alpha
+JSON Trie Dictionary, 0.01 alpha
 ===============================
 >Note: Some features descripted here
 >have **not** been implemented yet.
 
 These scripts allows the user to save many
-provided words and "compress" them into
+provided words and serialize them into
 [*tries*](http://en.wikipedia.org/wiki/Trie).
 
 The `generate.rb` script takes a list of words 
